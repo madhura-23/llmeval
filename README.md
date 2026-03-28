@@ -266,11 +266,7 @@ Contributions are welcome! Please open an issue before submitting a PR.
 
 ---
 
-## 📄 License
 
-MIT © 2024 [Your Name](https://github.com/YOUR_USERNAME)
-
----
 
 ## 🙏 Acknowledgements
 
